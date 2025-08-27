@@ -15,8 +15,8 @@
     },
     {
         "device_id": "eaa7359f91cc2d67",
-        "username": "PPK",
-        "password": "pass123",
+        "username": "ppk",
+        "password": "pass456",
         "expirydate": "30-09-2025",
         "Allowoffline": false
     }
